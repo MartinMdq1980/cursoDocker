@@ -1,0 +1,3 @@
+-- SHOW DATABASES LIKE 'curso%'
+-- SELECT user FROM mysql.user where user='userDocker'
+-- habria que hacer script sql para que ejecute despues de inicializar aplicacion
